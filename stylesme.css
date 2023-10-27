@@ -1,0 +1,61 @@
+/* * Réinitialisation des marges et des rembourrages pour assurer une base propre */
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Styles de base pour le corps de la page */
+body {
+    font-family: Times ;
+    background-color: #f0f0f0;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* Styles pour l'en-tête */
+header {
+    background-color: red;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    font-variant-numeric:Roman;
+}
+
+header h1 {
+    font-size: 36px;
+}
+
+/* Styles pour la barre de navigation */
+nav ul {
+    list-style-type: none;
+}
+   a{border:2px double White ;}
+
+    a {border:2px double White;} 
+
+    a{border:2px double White;} 
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+}
+
+/* Styles pour le contenu principal */
+main {
+    margin: 20px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0,
+}
+
+
+
+

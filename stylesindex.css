@@ -1,0 +1,57 @@
+/* * Réinitialisation des marges et des rembourrages pour assurer une base propre */
+<div>
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Styles de base pour le corps de la page */
+body {
+    
+    background-color: #f0f0f0;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    font-family: courier new 
+}
+
+/* Styles pour l'en-tête */
+header {
+    background-color: red;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    font-family:  
+}
+d
+
+header h1 {
+    font-size: 38px;
+    border : 4px bottom White; border-color: white
+}
+
+/* Styles pour la barre de navigation */
+a{border : 2px double White; border-radius : 50px}
+a{border : 2px double White;border-radius: 50px}
+a{border : 2px double White;border-radius : 50px}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+}
+
+/* Styles pour le contenu principal */
+main {
+    margin: 20px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0,
+    font-family : Roman ;
+
